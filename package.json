@@ -1,0 +1,26 @@
+{
+  "name": "cgit",
+  "version": "0.0.1",
+  "description": "git cli",
+  "main": "cgit.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "cgit helper"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:spricity/cgit.git"
+  },
+  "keywords": [
+    "git",
+    "cgit"
+  ],
+  "author": "spricity@gmail.com",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/spricity/cgit/issues"
+  },
+  "homepage": "https://github.com/spricity/cgit"
+}
