@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+var debug = require('debug')('http')
+  , http = require('http')
+  , name = 'My App';
+
+// fake app
+
+debug('booting %s', name);
+require('../cgit');
